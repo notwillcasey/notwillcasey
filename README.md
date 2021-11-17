@@ -1,4 +1,4 @@
-### Will Casey
+# Will Casey
 
 <div align="none" >
 <span align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></span>
