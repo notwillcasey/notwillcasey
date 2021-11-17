@@ -13,6 +13,11 @@
 <span align="center"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 </div>
 
+
+### Stats
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=notwillcasey&count_private=true&show_icons=true)
+
+
 <!--
 **notwillcasey/notwillcasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
