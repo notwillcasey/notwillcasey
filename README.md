@@ -43,7 +43,9 @@ Cloud
 
 
 ### Stats
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=notwillcasey&count_private=true&show_icons=true)
+<!-- ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=notwillcasey&count_private=true&show_icons=true)
+ -->
+![Will's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=notwillcasey)
 
 
 <!--
