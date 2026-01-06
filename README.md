@@ -5,7 +5,7 @@ Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notwillcasey/)
 
 
-
+<!--
 Languages
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -51,12 +51,7 @@ Cloud
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-
-### Stats
-<!-- ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=notwillcasey&count_private=true&show_icons=true)
- -->
-![Will's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=notwillcasey)
-
+-->
 
 <!--
 **notwillcasey/notwillcasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
